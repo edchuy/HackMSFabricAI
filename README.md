@@ -28,7 +28,7 @@ Steps Taken and Results
   
 ![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/8bf7e46f-2232-4663-9955-ab20220eb31e)
 
-- I created the following PowerBI visualization that accomplished my objective (I haven't gotten the raw data for any date in March yet, but I will update the image as soon as it is updated):
+- I created the following PowerBI visualization that accomplished my objective (I haven't gotten the raw data for any date in March yet, but I will update the image as soon as it is updated).
 
 ![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/3152ff1d-5bc4-4e0f-abc3-e7a2444f500a)
 
@@ -37,3 +37,7 @@ One thing I found is that I can only download a PBI version of the file that has
 Conclusion
 
 My project didn't end up being a 100% Microsoft Fabric as I would have wanted originally. But if there is one thing I learned is that you have a sure, backup way to get things done. I have already accepted being a speaker on AI on Pi Day (https://aidausergroup.org/2024/02/02/ai-on-pi-day-2024/), so I will definitely update this. In addition to resolving the Pyspark issue, I had the other sales data that I didn't manage to include this time.
+
+You can find a YouTube where I talk about my project here:
+
+https://youtu.be/oHQhNxIZEYg
