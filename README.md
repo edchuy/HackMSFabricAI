@@ -28,9 +28,10 @@ Steps Taken and Results
   
 ![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/8bf7e46f-2232-4663-9955-ab20220eb31e)
 
-- I created the following PowerBI visualization that accomplished my objective (Actual data updated to March 6th).
-- 
-![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/75173c9b-33be-4afc-9b87-a79008a539f1)
+- I created the following PowerBI visualization that accomplished my objective (Actual data updated to March 7th).
+
+![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/0cdebdfc-3048-47f1-b01c-45f57b80e735)
+
 
 One thing I found is that I can only download a PBI version of the file that has a live connection to the datasources which won't be helpful to publish here.
 
