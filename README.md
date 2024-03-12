@@ -28,9 +28,10 @@ Steps Taken and Results
   
 ![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/8bf7e46f-2232-4663-9955-ab20220eb31e)
 
-- I created the following PowerBI visualization that accomplished my objective (Actual data updated to March 10th).
+- I created the following PowerBI visualization that accomplished my objective (Actual data updated to March 11th).
 
-![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/7fa8d673-9f6b-4a57-a5fb-75d895a6cab8)
+![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/b1793c13-1d50-4347-ba2a-b5d833c86602)
+
 
 
 
