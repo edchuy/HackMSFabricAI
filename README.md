@@ -28,7 +28,7 @@ Steps Taken and Results
   
 ![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/8bf7e46f-2232-4663-9955-ab20220eb31e)
 
-- I created the following PowerBI visualization that accomplished my objective (Actual data updated to March 14th, last update scheduled on Monday March 18th).
+- I created the following PowerBI visualization that accomplished my objective (Actual data updated to March 14th, last update scheduled on Monday March 18th will include statistics of how the forecast did for the 15 days).
 
 ![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/0adcd67e-6b6f-4f89-a91c-f55335cd8c44)
 
