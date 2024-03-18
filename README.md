@@ -34,10 +34,10 @@ Steps Taken and Results
 
 Some stats of the model predicted values vs. the actual values over 15 days of data:
 
-average difference between daily predicted values vs. the actual values: ~207 (1.04% of average actual value)
-average MAE (mean absolute error): ~2,745 (13.8% of average actual value)
-RMSE (root mean square error): ~3,329(16.7% of average actual value)
-0 predicted daily value outside of the 80% predicted daily upper and lower limits
+- average difference between daily predicted values vs. the actual values: ~207 (1.04% of average actual value)
+- average MAE (mean absolute error): ~2,745 (13.8% of average actual value)
+- RMSE (root mean square error): ~3,329(16.7% of average actual value)
+- 0 predicted daily value outside of the 80% predicted daily upper and lower limits
 
 One thing I found is that I can only download a PBI version of the file that has a live connection to the datasources which won't be helpful to publish here.
 
