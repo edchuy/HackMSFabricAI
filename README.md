@@ -32,7 +32,7 @@ Steps Taken and Results
 
 ![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/bed02713-6a37-4243-a5e6-551cb3b3f367)
 
-A closer look at the visualization for the dates forecasted>:
+A closer look at the visualization for the 15 days forecasted:
 
 ![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/49dc4939-add5-4ad6-9553-5776dd255d05)
 
