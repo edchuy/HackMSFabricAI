@@ -32,6 +32,10 @@ Steps Taken and Results
 
 ![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/bed02713-6a37-4243-a5e6-551cb3b3f367)
 
+A closer look at the visualization for the dates forecasted>:
+
+![image](https://github.com/edchuy/HackMSFabricAI/assets/9073204/49dc4939-add5-4ad6-9553-5776dd255d05)
+
 Some stats of the model predicted values vs. the actual values over 15 days of data:
 
 - average difference between daily predicted values vs. the actual values: ~207 (1.04% of average actual value)
